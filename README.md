@@ -163,11 +163,11 @@ Este projeto está licenciado sob a **MIT License**.
 ---
 
 ## 👥 Contribuintes
-
-- [Marcelo Henrique Pereira Oliveira e Silva](https://github.com/marcelohpos)  
+ 
 - [Carolina Penido Barcellos](https://github.com/carolinabarcellos)
-- [Gabrielly Xavier dos Santos](https://github.com/gabyxsantos)  
+- [Gabrielly Xavier dos Santos](https://github.com/gabyxsantos)
+- [Marcelo Henrique Pereira Oliveira e Silva](https://github.com/marcelohpos) 
 - [Matheus Soares dos Santos de Freitas](https://github.com/Doctor-Math)  
 
 **Data de início:** Outubro de 2025  
-**Última atualização:** Novembro de 2025
+**Última atualização:** Dezembro de 2025
