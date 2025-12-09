@@ -2,6 +2,10 @@
 
 # 🌎 Qualidade do Ar na América Latina
 
+## 🏷️ Status e Tecnologias
+![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
+![Badge Concluído](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
+
 ## 📘 Objetivo
 
 O projeto **Qualidade do Ar na América Latina** tem como objetivo realizar a **coleta, tratamento e análise de dados** sobre as condições climáticas e a qualidade do ar nas principais **capitais latino-americanas**, permitindo uma visão abrangente do cenário ambiental atual do continente.
